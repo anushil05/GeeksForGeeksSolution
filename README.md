@@ -1,2 +1,1 @@
-# GeeksForGeeksSolution
-Solution to geeksforgeeks
+Sort012
